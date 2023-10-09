@@ -1,10 +1,10 @@
 <div align="center"> <h3 align="center"> Hi, I m Busra👋 </h3> </div>
-<br>
-<p></p>
+<hr>
 
 <div> <h3>	ABOUT ME </h3> </div>
-<b> I'm a passionate and driven continuous learner, aspiring to become a Data Analyst in Education, NHS(Healthcare)/Pharmaceutical and Media fields.<b>
-<b> I'm currently working on enhancing my skills and gain a deeper understanding of data analysis.</b>
+<hr>
+<b> :woman_student: I'm a passionate and driven continuous learner, aspiring to become a Data Analyst in Education, NHS(Healthcare)/Pharmaceutical and Media fields.<b>
+<b> :seedling: I'm currently working on enhancing my skills and gain a deeper understanding of data analysis.</b>
 
 <div> <h3>	DATA ANALYSIS TOOLS </h3> </div>
 
@@ -23,7 +23,7 @@
 
 </p>
 
-<div align="center"> <h3 align="center">  Connect with me </h3> </div>
+<div> <h3>  Connect with me </h3> </div>
 
 <p align="center">
 
