@@ -3,7 +3,7 @@
 
 <div> <h3>	ABOUT ME </h3> </div>
 <hr>
-<b> :woman_student: I'm a passionate and driven continuous learner, aspiring to become a Data Analyst in Education, NHS(Healthcare)/Pharmaceutical and Media fields.<b>
+<b> :woman_student: I'm a passionate and driven continuous learner, aspiring to become a Data Analyst in Education, NHS(Healthcare)/Pharmaceutical and Media fields.<b><br>
 <b> :seedling: I'm currently working on enhancing my skills and gain a deeper understanding of data analysis.</b>
 
 <div> <h3>	DATA ANALYSIS TOOLS </h3> </div>
