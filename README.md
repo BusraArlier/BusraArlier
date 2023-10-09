@@ -1,6 +1,10 @@
 <div align="center"> <h3 align="center"> Hi, I m Busra👋 </h3> </div>
-<b>My name is Busra Arlier. I am a data professional. <b>
-<p></p>
+<<p></p>
+<iframe src="https://giphy.com/embed/HUplkVCPY7jTW" width="343" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/watson-geekout-HUplkVCPY7jTW">via GIPHY</a></p>
+<div> <h3>	ABOUT ME </h3> </div>
+<b> I'm a passionate and driven continuous learner, aspiring to become a Data Analyst in Education, NHS(Healthcare)/Pharmaceutical and Media fields.<b>
+<b> I'm currently working on enhancing my skills and gain a deeper understanding of data analysis.</b>
+
 <div> <h3>	DATA ANALYSIS TOOLS </h3> </div>
 
 <b>I have experience using these data analysis tools.<b>
