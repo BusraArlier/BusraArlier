@@ -1,7 +1,7 @@
-<div align="center"> <h3 align="center"> Hi, I am a Data Analyst 👋 </h3> </div>
+<div align="center"> <h3 align="center"> Hi, I m Busra👋 </h3> </div>
 <b>My name is Busra Arlier. I am a data professional. <b>
 <p></p>
-<div align="center"> <h3 align="center">	DATA ANALYSIS TOOLS </h3> </div>
+<div> <h3>	DATA ANALYSIS TOOLS </h3> </div>
 
 <b>I have experience using these data analysis tools.<b>
 
