@@ -1,5 +1,5 @@
 <div align="center"> <h3 align="center"> Hi, I m Busra👋 </h3> </div>
-<<p></p>
+<p></p>
 
 <div> <h3>	ABOUT ME </h3> </div>
 <b> I'm a passionate and driven continuous learner, aspiring to become a Data Analyst in Education, NHS(Healthcare)/Pharmaceutical and Media fields.<b>
